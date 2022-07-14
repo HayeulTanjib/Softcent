@@ -1,0 +1,23 @@
+[
+    {
+        "id": 101,
+        "service_name": "Branding",
+        "img": "./branding.png",
+        "services": ["Brand Strategy","Social media", "Marketing Assets", "Presentations","Build MVp Version","Pitch Deck"]
+
+    },
+    {
+        "id": 102,
+        "service_name": "UI/UX Design",
+        "img": "./ux.png",
+        "services": ["User Interface","User Experience","Design System","Wireframe","Prototype","Website & Mobile App","IOS+Android"]
+
+    },
+    {
+        "id": 103,
+        "service_name": "Development",
+        "img": "./ux.png",
+        "services": ["Front End (HTML, CSS, React)","Backend (Node js, MongoDB)","iOs (Swift)", "Android (Kotlin, Flutter)", "Blockchain Development (NFT)"]
+
+    }
+]

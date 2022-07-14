@@ -1,0 +1,13 @@
+.services_section{
+  text-align: center;
+  height: 100vh;
+}
+
+.services_details{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.customer_heading{
+  margin-bottom: 50px;
+}

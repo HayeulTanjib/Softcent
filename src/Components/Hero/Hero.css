@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Overlock:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700&display=swap');
+
+.hero {
+    padding: 0 137px;
+    margin-top: 97px;
+}
+
+.hero h1 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    color: #040415;
+    font-family: 'Overlock', cursive;
+}
+
+.hero p {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: rgba(4, 4, 21, 0.6);
+    margin-top: 22px;
+}
+
+.underline_img {
+    position: absolute;
+    top: 255px;
+}
+
+.bg_img {
+    position: relative;
+    margin: 50px 0;
+}
+
+.bg_icon1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg_icon2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg_icon3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

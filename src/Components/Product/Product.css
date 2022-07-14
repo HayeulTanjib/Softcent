@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Overlock:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700&display=swap');
+
+.product_section {
+    background-color: #F9F9F9;
+}
+
+.product_heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px 0;
+    margin: 0 70px;
+}
+
+.product_heading h1{
+    font-family: 'Overlock', cursive;
+    font-weight: 700;
+    font-size: 28px;
+}
+.product_heading p{
+    font-family: 'Nunito', sans-serif;
+    line-height: 32px;
+    margin: 35px 0;
+}
+
+.seemore_button button {
+    background: #3088FF;
+    box-shadow: 16px 16px 28px rgba(48, 136, 255, 0.1);
+    border-radius: 8px;
+    height: 50px;
+    width: 157px;
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+}
+
+.swipexyx_product {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swipexyz_info {
+    width: 444px;
+    height: 412px;
+    background-color: #fff;
+    padding: 20px;
+    
+}
+
+.swipexyz_info h2 {
+    font-family: 'Overlock', cursive;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.swipexyz_info p {
+    font-family: 'Nunito', sans-serif;
+    line-height: 32px;
+    margin: 25px 0;
+}
+.swipexyz_info button{
+    background: #3088FF;
+    box-shadow: 16px 16px 28px rgba(48, 136, 255, 0.1);
+    background: rgba(48, 136, 255, 0.12);
+    color: #040415CC;
+    border-radius: 8px;
+    height: 50px;
+    width: 157px;
+    font-weight: 400;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+}
+
+.cashback_product {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.cashback_info {
+    width: 444px;
+    height: 412px;
+    background-color: #fff;
+    padding: 20px;
+    margin-left: 130px;
+}
+
+.cashback_info h2 {
+    font-family: 'Overlock', cursive;
+    font-weight: 700;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.cashback_info p {
+    font-family: 'Nunito', sans-serif;
+    line-height: 32px;
+    margin: 25px 0;
+}
+.cashback_info button{
+    background: #3088FF;
+    box-shadow: 16px 16px 28px rgba(48, 136, 255, 0.1);
+    background: rgba(48, 136, 255, 0.12);
+    color: #040415CC;
+    border-radius: 8px;
+    height: 50px;
+    width: 157px;
+    font-weight: 400;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+}

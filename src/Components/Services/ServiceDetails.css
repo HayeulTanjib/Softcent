@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Overlock:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700&display=swap');
+
+.service_title {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.service_title h1 {
+    font-family: 'Overlock', cursive;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+li{
+    font-family: 'Nunito', sans-serif;
+    color: rgba(4, 4, 21, 0.8);
+    font-size: 18px;
+    line-height: 52px;
+    font-weight: 600;
+}
